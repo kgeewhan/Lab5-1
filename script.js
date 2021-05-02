@@ -21,6 +21,7 @@ const form = document.getElementById('generate-meme');
 form.addEventListener('submit', function(event) {
   context.fillStyle = 'green';
   context.fillRect(10, 10, 150, 100);
+  context.fillText("hello", 50, 60);
   event.preventDefault();
 });
 
