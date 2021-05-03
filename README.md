@@ -3,9 +3,8 @@
 ## Author(s):
 - Geewhan Kim
 
-## Part 1:
-
-LINK TO YOUR PUBLISHED SITE
+## Part 1:  
+https://kgeewhan.github.io/Lab5-1/
 
 ## Part 2:
 
