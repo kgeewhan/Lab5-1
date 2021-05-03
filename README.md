@@ -6,6 +6,5 @@
 ## Part 1:  
 https://kgeewhan.github.io/Lab5-1/
 
-## Part 2:
-
-LINK TO YOUR PART 2 REPOSITORY
+## Part 2:  
+https://github.com/kgeewhan/github-actions-for-ci/issues/7
